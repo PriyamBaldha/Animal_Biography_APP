@@ -10,5 +10,5 @@
 </p>
 
 <p align=center>
-<img src="" height=500 width=250>
+<img src="https://github.com/ParasRojiya/animal_biography_app/blob/master/assets/output/gif.gif" height=500 width=250>
 </p>
